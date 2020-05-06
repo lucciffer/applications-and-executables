@@ -5,7 +5,7 @@ INSTRUCTIONS ON USING THE QR-CODE-GENERATOR APP:
 3. Copy both the above mentioned files into a same folder.
 3. Right click on the app file, and navigate to permissions tab, and allow the file to be executed as a program.
 4. Run the program, enter URL/text data in the dialogue and hit 'Generate QR' button.
-5. You should be able to see a QR code image with current date and time and a '.png' extension in the same folder where your app files are stored.
-
+5. You should be able to see a QR code image with a '.png' extension in the same folder where your app files are stored.
+6. You can generate multiple QR codes in one go, just clear the text dialogue, fill in a new URL/text data into it, and hit 'Generate QR' again. All the QR codes will be saved with current date and time(date and time during the time of generation).
 
 App designed by #Lucciffer
