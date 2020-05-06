@@ -1,6 +1,6 @@
 INSTRUCTIONS ON USING THE QR-CODE-GENERATOR APP:
 1. This application is designed exculisvely for Linux operating systems, and does not work on windows/mac OS 
-2.Download/clone the files 'QR-Code-app_v0.1' and the icon image file 'qr1.png'
+2.Download/clone the files 'QR-Code-app_v0.2' and the icon image file 'qr1.png'
  into your local machine.
 3. Copy both the above mentioned files into a same folder.
 3. Right click on the app file, and navigate to permissions tab, and allow the file to be executed as a program.
