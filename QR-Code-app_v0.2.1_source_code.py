@@ -15,7 +15,7 @@ OptionList = [
 ".png",
 ".svg"
 ]
-
+#app by lucciffer
 def qrcodegenerator():
     text = entry.get()
     site = text
@@ -29,7 +29,7 @@ def qrcodegenerator():
     label = tk.Label(win, text="SUCCESS!",bg = "black",fg ="#00ff00")
     label.grid(row=4,column=0)
 
-
+#app by lucciffer
 label = tk.Label(win, text="Generate QR code for: ",bg ="#00efff")
 label.grid(row=0,column=0)
 entry = tk.Entry(win)
